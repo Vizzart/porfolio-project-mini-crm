@@ -40,3 +40,4 @@ msbuild.wrn
 
 # macOS
 .DS_Store
+.idea
